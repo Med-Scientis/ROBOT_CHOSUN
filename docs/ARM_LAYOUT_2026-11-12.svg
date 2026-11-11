@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594mm" height="420mm" viewBox="0 0 1188 840">
+<rect width="1188" height="840" fill="white"/>
+<text x="44" y="30" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="34" font-weight="700">팔 치수에 맞춘 배치도 초안</text>
+<text x="46" y="82" dominant-baseline="text-before-edge" fill="#6B7B85" font-family="Malgun Gothic, sans-serif" font-size="20" font-weight="400">2026.11.12  ·  위팔 260mm / 아래팔 250mm  ·  옆에서 본 90도 굽힘 예시</text>
+<polyline points="400,160 400,680 900,680" fill="none" stroke="#EDF1F4" stroke-width="86"/>
+<polyline points="400,160 400,680 900,680" fill="none" stroke="#BAC6CE" stroke-width="2"/>
+<text x="420" y="139" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="21" font-weight="400">어깨 기준점</text>
+<text x="912" y="670" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="21" font-weight="400">손목</text>
+<circle cx="400" cy="160" r="6" fill="#6B7B85" stroke="#6B7B85" stroke-width="2"/>
+<circle cx="900" cy="680" r="6" fill="#6B7B85" stroke="#6B7B85" stroke-width="2"/>
+<rect x="380" y="258" width="40" height="392" fill="#D1DFEA" stroke="#245C87" stroke-width="2"/>
+<rect x="456" y="663" width="344" height="34" fill="#D1DFEA" stroke="#245C87" stroke-width="2"/>
+<rect x="351" y="265" width="98" height="24" fill="#A5C5B7" stroke="#A5C5B7" stroke-width="2"/>
+<rect x="719" y="637" width="24" height="86" fill="#A5C5B7" stroke="#A5C5B7" stroke-width="2"/>
+<polyline points="449,276 559,234" fill="none" stroke="#517769" stroke-width="2"/>
+<text x="570" y="205" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="22" font-weight="700">위팔 찍찍이 + 패드</text>
+<text x="570" y="237" dominant-baseline="text-before-edge" fill="#6B7B85" font-family="Malgun Gothic, sans-serif" font-size="19" font-weight="400">팔 굵기에 맞춰 조임</text>
+<polyline points="731,637 790,565" fill="none" stroke="#517769" stroke-width="2"/>
+<text x="790" y="533" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="22" font-weight="700">아래팔 찍찍이 + 패드</text>
+<polyline points="342.7,385 342.7,680" fill="none" stroke="#A35F1A" stroke-width="4"/>
+<polyline points="457.3,385 457.3,680" fill="none" stroke="#A35F1A" stroke-width="4"/>
+<circle cx="400" cy="385" r="57.3" fill="#FFF6E9" stroke="#A35F1A" stroke-width="3"/>
+<circle cx="400" cy="385" r="55" fill="#E2EBF3" stroke="#245C87" stroke-width="2"/>
+<circle cx="400" cy="680" r="57.3" fill="#FFF6E9" stroke="#A35F1A" stroke-width="3"/>
+<circle cx="400" cy="385" r="5" fill="#245C87" stroke="#245C87" stroke-width="2"/>
+<circle cx="400" cy="680" r="7" fill="#245C87" stroke="#245C87" stroke-width="2"/>
+<text x="371" y="371" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="21" font-weight="700">모터</text>
+<polyline points="457,385 555,355" fill="none" stroke="#245C87" stroke-width="2"/>
+<text x="570" y="320" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="22" font-weight="700">모터 몸체 지름 약 55mm</text>
+<text x="570" y="355" dominant-baseline="text-before-edge" fill="#6B7B85" font-family="Malgun Gothic, sans-serif" font-size="19" font-weight="400">양쪽 36T 풀리·벨트의 자리 검토</text>
+<text x="570" y="386" dominant-baseline="text-before-edge" fill="#6B7B85" font-family="Malgun Gothic, sans-serif" font-size="18" font-weight="400">풀리 원은 피치 지름 57.3mm 표시</text>
+<polyline points="457,680 506,740" fill="none" stroke="#A35F1A" stroke-width="2"/>
+<text x="510" y="732" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="21" font-weight="700">팔꿈치 관절축</text>
+<polyline points="206,160 378,160" fill="none" stroke="#6B7B85" stroke-width="2"/>
+<polyline points="206,680 328,680" fill="none" stroke="#6B7B85" stroke-width="2"/>
+<polyline points="225,160 225,680" fill="none" stroke="#6B7B85" stroke-width="2"/>
+<polyline points="218,171 225,160 232,171" fill="none" stroke="#6B7B85" stroke-width="2"/>
+<polyline points="218,669 225,680 232,669" fill="none" stroke="#6B7B85" stroke-width="2"/>
+<text x="49" y="396" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="24" font-weight="700">위팔 26cm</text>
+<text x="72" y="432" dominant-baseline="text-before-edge" fill="#6B7B85" font-family="Malgun Gothic, sans-serif" font-size="18" font-weight="400">사용자 측정</text>
+<polyline points="400,750 400,802" fill="none" stroke="#6B7B85" stroke-width="2"/>
+<polyline points="900,734 900,802" fill="none" stroke="#6B7B85" stroke-width="2"/>
+<polyline points="400,790 900,790" fill="none" stroke="#6B7B85" stroke-width="2"/>
+<polyline points="411,783 400,790 411,797" fill="none" stroke="#6B7B85" stroke-width="2"/>
+<polyline points="889,783 900,790 889,797" fill="none" stroke="#6B7B85" stroke-width="2"/>
+<text x="555" y="758" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="23" font-weight="700">아래팔 25cm</text>
+<polyline points="300,385 300,680" fill="none" stroke="#6B7B85" stroke-width="2"/>
+<polyline points="293,396 300,385 307,396" fill="none" stroke="#6B7B85" stroke-width="2"/>
+<polyline points="293,669 300,680 307,669" fill="none" stroke="#6B7B85" stroke-width="2"/>
+<text x="44" y="518" dominant-baseline="text-before-edge" fill="#A35F1A" font-family="Malgun Gothic, sans-serif" font-size="19" font-weight="700">모터↔관절 14.75cm</text>
+<text x="44" y="550" dominant-baseline="text-before-edge" fill="#A35F1A" font-family="Malgun Gothic, sans-serif" font-size="18" font-weight="400">기존 계산 예시</text>
+<text x="44" y="579" dominant-baseline="text-before-edge" fill="#A35F1A" font-family="Malgun Gothic, sans-serif" font-size="18" font-weight="400">위치는 아직 조정 가능</text>
+<text x="570" y="450" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="20" font-weight="700">모터 위치·프레임 길이·끈 폭은 미정</text>
+<text x="570" y="481" dominant-baseline="text-before-edge" fill="#6B7B85" font-family="Malgun Gothic, sans-serif" font-size="18" font-weight="400">착용 여유와 간섭을 확인한 뒤 제작 치수 결정</text>
+<text x="44" y="813" dominant-baseline="text-before-edge" fill="#6B7B85" font-family="Malgun Gothic, sans-serif" font-size="17" font-weight="400">팔 길이는 사용자 제공값. 프레임·끈 윤곽은 위치 설명용이며 제작 도면은 다음 단계에서 작성.</text>
+</svg>
