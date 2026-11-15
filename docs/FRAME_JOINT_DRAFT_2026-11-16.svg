@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1080" viewBox="0 0 1600 1080">
+<rect width="1600" height="1080" fill="white"/>
+<text x="42" y="32" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="38" font-weight="700" fill="#16354A">팔 프레임과 팔꿈치 관절 | 첫 설계안</text>
+<text x="44" y="88" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#647684">2026.11.16   ·   기존 모터 위치 유지   ·   단위 mm   ·   설명용 그림 / 가공 도면 아님</text>
+<rect x="40" y="137" width="710" height="675" fill="#F7FAFC" stroke="#F7FAFC" stroke-width="2"/>
+<rect x="774" y="137" width="786" height="675" fill="#F7FAFC" stroke="#F7FAFC" stroke-width="2"/>
+<text x="62" y="158" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="27" font-weight="700" fill="#16354A">① 옆에서 본 배치</text>
+<text x="800" y="158" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="27" font-weight="700" fill="#16354A">② 팔꿈치 축을 옆으로 잘라 본 구조</text>
+<text x="800" y="200" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="400" fill="#647684">베어링 사이에 풀리 / 바깥쪽에 아래팔 연결부</text>
+<polyline points="286,283.0 286,660 648.5,660" fill="none" stroke="#DDE4E9" stroke-width="62"/>
+<rect x="264.25" y="341.0" width="43.5" height="319.0" fill="#EAF2F8" stroke="#3478A7" stroke-width="2"/>
+<rect x="235.25" y="395.375" width="101.5" height="101.5" fill="#EAF2F8" stroke="#3478A7" stroke-width="2"/>
+<rect x="286" y="641.875" width="304.5" height="36.25" fill="#E5F0EA" stroke="#327B69" stroke-width="2"/>
+<circle cx="286" cy="660" r="36.25" fill="#E5F0EA" stroke="#327B69" stroke-width="2"/>
+<rect x="248" y="522.25" width="76" height="43.5" fill="#B5D9CC" stroke="#327B69" stroke-width="2"/>
+<rect x="248" y="341.0" width="76" height="43.5" fill="#B5D9CC" stroke="#327B69" stroke-width="2"/>
+<rect x="365.75" y="624" width="43.5" height="72" fill="#B5D9CC" stroke="#327B69" stroke-width="2"/>
+<rect x="525.25" y="624" width="43.5" height="72" fill="#B5D9CC" stroke="#327B69" stroke-width="2"/>
+<polyline points="244.460545,446.125 244.460545,660" fill="none" stroke="#C47728" stroke-width="4"/>
+<polyline points="327.539455,446.125 327.539455,660" fill="none" stroke="#C47728" stroke-width="4"/>
+<circle cx="286" cy="446.125" r="41.539455" fill="#FFF4E5" stroke="#C47728" stroke-width="3"/>
+<circle cx="286" cy="660" r="41.539455" fill="#FFF4E5" stroke="#C47728" stroke-width="3"/>
+<circle cx="286" cy="446.125" r="39.875" fill="#EAF2F8" stroke="#3478A7" stroke-width="2"/>
+<circle cx="286" cy="660" r="9" fill="#3478A7" stroke="#3478A7" stroke-width="2"/>
+<text x="260" y="435.125" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="19" font-weight="700" fill="#16354A">모터</text>
+<circle cx="286" cy="283.0" r="4" fill="#647684" stroke="#647684" stroke-width="2"/>
+<circle cx="648.5" cy="660" r="4" fill="#647684" stroke="#647684" stroke-width="2"/>
+<text x="321" y="259.0" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#647684">어깨</text>
+<text x="628.5" y="711" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#647684">손목</text>
+<polyline points="202,446.125 202,660" fill="none" stroke="#647684" stroke-width="2"/>
+<polyline points="197,455.125 202,446.125 207,455.125" fill="none" stroke="#647684" stroke-width="2"/>
+<polyline points="197,651 202,660 207,651" fill="none" stroke="#647684" stroke-width="2"/>
+<text x="125" y="535" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#647684">147.5</text>
+<text x="66" y="470" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="700" fill="#3478A7">채택 위치</text>
+<polyline points="112,283.0 112,660" fill="none" stroke="#647684" stroke-width="2"/>
+<polyline points="107,292.0 112,283.0 117,292.0" fill="none" stroke="#647684" stroke-width="2"/>
+<polyline points="107,651 112,660 117,651" fill="none" stroke="#647684" stroke-width="2"/>
+<text x="62" y="235" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#647684">위팔 260</text>
+<polyline points="286,747 648.5,747" fill="none" stroke="#647684" stroke-width="2"/>
+<polyline points="295,742 286,747 295,752" fill="none" stroke="#647684" stroke-width="2"/>
+<polyline points="639.5,742 648.5,747 639.5,752" fill="none" stroke="#647684" stroke-width="2"/>
+<text x="413" y="756" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#647684">아래팔 250</text>
+<polyline points="327.539455,446.125 477,417.125" fill="none" stroke="#3478A7" stroke-width="2"/>
+<text x="484" y="394.125" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="700" fill="#3478A7">출력면에 직접</text>
+<text x="484" y="424.125" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#3478A7">3D 출력 풀리</text>
+<polyline points="547.0,624 597,575" fill="none" stroke="#327B69" stroke-width="2"/>
+<text x="482" y="541" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="700" fill="#327B69">찍찍이 30 폭 × 4곳</text>
+<text x="481" y="569" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="19" font-weight="400" fill="#647684">위팔 2 / 아래팔 2 제안</text>
+<text x="64" y="784" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#3478A7">프레임 범위 제안: 위팔 220 / 아래팔 210</text>
+<text x="806" y="250" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="700" fill="#3478A7">안쪽 지지대 A</text>
+<text x="1120" y="250" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="700" fill="#3478A7">바깥 지지대 B</text>
+<rect x="883.0" y="323" width="70.0" height="253" fill="#D6E6F2" stroke="#3478A7" stroke-width="2"/>
+<rect x="1083.0" y="323" width="70.0" height="253" fill="#D6E6F2" stroke="#3478A7" stroke-width="2"/>
+<polyline points="918.0,321 918.0,291 1118.0,291 1118.0,321" fill="none" stroke="#3478A7" stroke-width="6"/>
+<rect x="878.0" y="415" width="20.0" height="70" fill="#8C99A1" stroke="#16354A" stroke-width="2"/>
+<rect x="898.0" y="420" width="380.0" height="60" fill="#8C99A1" stroke="#16354A" stroke-width="2"/>
+<rect x="898.0" y="380" width="40.0" height="40" fill="#FFFFFF" stroke="#3478A7" stroke-width="2"/>
+<circle cx="918.0" cy="400" r="11" fill="#B6D6EE" stroke="#3478A7" stroke-width="2"/>
+<rect x="898.0" y="480" width="40.0" height="40" fill="#FFFFFF" stroke="#3478A7" stroke-width="2"/>
+<circle cx="918.0" cy="500" r="11" fill="#B6D6EE" stroke="#3478A7" stroke-width="2"/>
+<rect x="1098.0" y="380" width="40.0" height="40" fill="#FFFFFF" stroke="#3478A7" stroke-width="2"/>
+<circle cx="1118.0" cy="400" r="11" fill="#B6D6EE" stroke="#3478A7" stroke-width="2"/>
+<rect x="1098.0" y="480" width="40.0" height="40" fill="#FFFFFF" stroke="#3478A7" stroke-width="2"/>
+<circle cx="1118.0" cy="500" r="11" fill="#B6D6EE" stroke="#3478A7" stroke-width="2"/>
+<rect x="948.0" y="386" width="140.0" height="128" fill="#E7B575" stroke="#C47728" stroke-width="2"/>
+<rect x="978.0" y="306" width="80.0" height="288" fill="#F9DEB8" stroke="#C47728" stroke-width="2"/>
+<rect x="973.0" y="298" width="5.0" height="304" fill="#E7B575" stroke="#C47728" stroke-width="2"/>
+<rect x="1058.0" y="298" width="5.0" height="304" fill="#E7B575" stroke="#C47728" stroke-width="2"/>
+<rect x="980.5" y="303" width="75.0" height="12" fill="#554A3F" stroke="#554A3F" stroke-width="2"/>
+<rect x="898.0" y="420" width="380.0" height="60" fill="#8C99A1" stroke="#16354A" stroke-width="2"/>
+<rect x="968.0" y="413" width="100.0" height="13" fill="#F3C653" stroke="#16354A" stroke-width="2"/>
+<rect x="1158.0" y="413" width="80.0" height="13" fill="#F3C653" stroke="#16354A" stroke-width="2"/>
+<rect x="938.0" y="413" width="10.0" height="7" fill="#546670" stroke="#16354A" stroke-width="2"/>
+<rect x="938.0" y="480" width="10.0" height="7" fill="#546670" stroke="#16354A" stroke-width="2"/>
+<rect x="1088.0" y="413" width="10.0" height="7" fill="#546670" stroke="#16354A" stroke-width="2"/>
+<rect x="1088.0" y="480" width="10.0" height="7" fill="#546670" stroke="#16354A" stroke-width="2"/>
+<rect x="1138.0" y="413" width="10.0" height="7" fill="#546670" stroke="#16354A" stroke-width="2"/>
+<rect x="1138.0" y="480" width="10.0" height="7" fill="#546670" stroke="#16354A" stroke-width="2"/>
+<rect x="1248.0" y="413" width="10.0" height="7" fill="#546670" stroke="#16354A" stroke-width="2"/>
+<rect x="1248.0" y="480" width="10.0" height="7" fill="#546670" stroke="#16354A" stroke-width="2"/>
+<rect x="1148.0" y="395" width="100.0" height="25" fill="#96C5B2" stroke="#327B69" stroke-width="2"/>
+<rect x="1148.0" y="480" width="100.0" height="25" fill="#96C5B2" stroke="#327B69" stroke-width="2"/>
+<rect x="1223.0" y="332" width="25.0" height="236" fill="#96C5B2" stroke="#327B69" stroke-width="2"/>
+<rect x="1248.0" y="332" width="20.0" height="236" fill="#C9E0D7" stroke="#327B69" stroke-width="2"/>
+<rect x="1158.0" y="413" width="80.0" height="13" fill="#F3C653" stroke="#16354A" stroke-width="2"/>
+<polyline points="1213.0,370 1278.0,370" fill="none" stroke="#16354A" stroke-width="6"/>
+<polyline points="1213.0,530 1278.0,530" fill="none" stroke="#16354A" stroke-width="6"/>
+<rect x="1260.5" y="410" width="7.5" height="80" fill="#16354A" stroke="#16354A" stroke-width="2"/>
+<circle cx="1298.0" cy="450" r="11" fill="#CF6B6D" stroke="#A64042" stroke-width="2"/>
+<rect x="1328.0" y="414" width="20.0" height="72" fill="#B1C8D7" stroke="#3478A7" stroke-width="2"/>
+<text x="1358" y="401" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="19" font-weight="700" fill="#3478A7">각도센서</text>
+<text x="1358" y="429" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="17" font-weight="400" fill="#647684">고정 브래킷</text>
+<text x="1358" y="463" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="18" font-weight="400" fill="#C47728">축 끝 자석</text>
+<text x="801" y="606" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="700" fill="#3478A7">6001 베어링 2개</text>
+<text x="801" y="636" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="19" font-weight="400" fill="#647684">안지름 12 / 바깥지름 28 / 폭 8</text>
+<text x="1131" y="606" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="700" fill="#327B69">아래팔 프레임</text>
+<text x="1131" y="636" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="19" font-weight="400" fill="#647684">허브에 볼트로 고정</text>
+<polyline points="918.0,693 1118.0,693" fill="none" stroke="#647684" stroke-width="2"/>
+<polyline points="927.0,688 918.0,693 927.0,698" fill="none" stroke="#647684" stroke-width="2"/>
+<polyline points="1109.0,688 1118.0,693 1109.0,698" fill="none" stroke="#647684" stroke-width="2"/>
+<text x="912" y="708" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#647684">베어링 중심 간격 40 제안</text>
+<text x="800" y="756" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#16354A">노란 키 2개가 풀리 → 축 → 아래팔로 회전력을 전달</text>
+<text x="800" y="784" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="18" font-weight="400" fill="#647684">축 길이 약 80 제안 · 고정 링/공차/센서 간격은 상세 설계</text>
+<rect x="40" y="838" width="1520" height="193" fill="#EDF5F2" stroke="#EDF5F2" stroke-width="2"/>
+<text x="62" y="856" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="25" font-weight="700" fill="#327B69">지금 확인할 것</text>
+<text x="62" y="900" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="23" font-weight="400" fill="#16354A">1  종이 본을 100%로 출력 → 50mm 눈금 확인 → 판지에 붙여 중심끼리 연결</text>
+<text x="62" y="941" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="23" font-weight="400" fill="#16354A">2  전원 없이 팔 옆에 대어 길이·찍찍이 위치·굽힘 간섭 확인</text>
+<text x="62" y="982" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="23" font-weight="400" fill="#16354A">3  팔 바깥 돌출과 축 고정 상세를 확인한 뒤 가공 도면·견적 진행</text>
+<text x="45" y="1045" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="18" font-weight="400" fill="#647684">파랑 = 고정측   /   주황 = 풀리   /   회색 = 회전축   /   초록 = 아래팔측   |   강도·착용 검증 전</text>
+</svg>
