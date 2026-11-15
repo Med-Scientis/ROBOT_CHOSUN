@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="594mm" height="420mm" viewBox="0 0 1188 840">
 <rect width="1188" height="840" fill="white"/>
 <text x="44" y="30" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="34" font-weight="700">팔 치수에 맞춘 배치도 초안</text>
-<text x="46" y="82" dominant-baseline="text-before-edge" fill="#6B7B85" font-family="Malgun Gothic, sans-serif" font-size="20" font-weight="400">2026.11.12  ·  위팔 260mm / 아래팔 250mm  ·  옆에서 본 90도 굽힘 예시</text>
+<text x="46" y="82" dominant-baseline="text-before-edge" fill="#6B7B85" font-family="Malgun Gothic, sans-serif" font-size="20" font-weight="400">2026.11.16  ·  위팔 260mm / 아래팔 250mm  ·  옆에서 본 90도 굽힘 예시</text>
 <polyline points="400,160 400,680 900,680" fill="none" stroke="#EDF1F4" stroke-width="86"/>
 <polyline points="400,160 400,680 900,680" fill="none" stroke="#BAC6CE" stroke-width="2"/>
 <text x="420" y="139" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="21" font-weight="400">어깨 기준점</text>
@@ -48,9 +48,9 @@
 <polyline points="293,396 300,385 307,396" fill="none" stroke="#6B7B85" stroke-width="2"/>
 <polyline points="293,669 300,680 307,669" fill="none" stroke="#6B7B85" stroke-width="2"/>
 <text x="44" y="518" dominant-baseline="text-before-edge" fill="#A35F1A" font-family="Malgun Gothic, sans-serif" font-size="19" font-weight="700">모터↔관절 14.75cm</text>
-<text x="44" y="550" dominant-baseline="text-before-edge" fill="#A35F1A" font-family="Malgun Gothic, sans-serif" font-size="18" font-weight="400">기존 계산 예시</text>
-<text x="44" y="579" dominant-baseline="text-before-edge" fill="#A35F1A" font-family="Malgun Gothic, sans-serif" font-size="18" font-weight="400">위치는 아직 조정 가능</text>
-<text x="570" y="450" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="20" font-weight="700">모터 위치·프레임 길이·끈 폭은 미정</text>
+<text x="44" y="550" dominant-baseline="text-before-edge" fill="#A35F1A" font-family="Malgun Gothic, sans-serif" font-size="18" font-weight="400">설계 기준으로 채택</text>
+<text x="44" y="579" dominant-baseline="text-before-edge" fill="#A35F1A" font-family="Malgun Gothic, sans-serif" font-size="18" font-weight="400">실물 간섭은 확인 전</text>
+<text x="570" y="450" dominant-baseline="text-before-edge" fill="#19364A" font-family="Malgun Gothic, sans-serif" font-size="20" font-weight="700">프레임 길이·끈 폭은 미정</text>
 <text x="570" y="481" dominant-baseline="text-before-edge" fill="#6B7B85" font-family="Malgun Gothic, sans-serif" font-size="18" font-weight="400">착용 여유와 간섭을 확인한 뒤 제작 치수 결정</text>
 <text x="44" y="813" dominant-baseline="text-before-edge" fill="#6B7B85" font-family="Malgun Gothic, sans-serif" font-size="17" font-weight="400">팔 길이는 사용자 제공값. 프레임·끈 윤곽은 위치 설명용이며 제작 도면은 다음 단계에서 작성.</text>
 </svg>
