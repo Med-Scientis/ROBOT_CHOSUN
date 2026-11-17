@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1220" viewBox="0 0 1600 1220">
 <rect width="1600" height="1220" fill="white"/>
 <text x="44" y="30" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="40" font-weight="700" fill="#18364A">팔 받침 · 패드 · 찍찍이 연결안</text>
-<text x="46" y="88" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="23" font-weight="400" fill="#687C89">2026.11.17  |  받은 팔 둘레와 기존 위치 유지  |  새 치수는 제작 검토 제안</text>
+<text x="46" y="88" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="23" font-weight="400" fill="#687C89">자체 검토 후 가공 보류 | 연결 높이·끈 길이·체결부 보정 필요 | CUFF_SELF_REVIEW.md</text>
 <rect x="40" y="140" width="715" height="560" rx="12" fill="#F4F8FA" stroke="#F4F8FA" stroke-width="2"/>
 <rect x="780" y="140" width="780" height="560" rx="12" fill="#F4F8FA" stroke="#F4F8FA" stroke-width="2"/>
 <text x="64" y="160" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="27" font-weight="700" fill="#18364A">① 팔을 내려다본 단면</text>
@@ -48,7 +48,7 @@
 <text x="1117" y="371" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#687C89">곡면과 평면 사이에</text>
 <text x="1117" y="401" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#687C89">맞춤 받침을 넣어 고정</text>
 <text x="812" y="548" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="700" fill="#18364A">팔 → 패드 → 곡면 받침 → 맞춤 블록 → 프레임</text>
-<text x="812" y="589" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#687C89">안쪽 볼트 머리는 패드 뒷면 홈에 수용</text>
+<text x="812" y="589" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#687C89">안쪽 볼트·패드 홈 구조는 재검토</text>
 <text x="812" y="622" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#687C89">피부 쪽에는 연속 패드 유지 · 눌림 실물 확인</text>
 <text x="812" y="657" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="19" font-weight="400" fill="#687C89">볼트 길이·조임값·블록 재질은 최종 조립에 맞춰 결정</text>
 <text x="44" y="731" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="28" font-weight="700" fill="#18364A">③ 위치별 준비 치수</text>
@@ -85,4 +85,5 @@
 <text x="48" y="1076" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">끈은 45cm × 2개, 40cm × 1개, 35cm × 1개로 길게 준비하고 봉제 전에 맞춰 줄임.</text>
 <text x="48" y="1115" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="400" fill="#687C89">겹쳐 붙이는 길이 80mm는 시험 시작값. 실제 제품·봉제·미끄러짐 시험 후 확정.</text>
 <text x="48" y="1172" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#687C89">받침의 곡률은 원형 가정값이며 실제 팔 모양에 맞춰 보정. 입체 간섭·하중 검증 전.</text>
+<desc>HOLD after self review. Original proposal geometry; not for fabrication. See CUFF_SELF_REVIEW.md.</desc>
 </svg>

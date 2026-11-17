@@ -1,0 +1,59 @@
+{
+  "status": "REVIEW CALCULATIONS ONLY; NO FABRICATION OR POWERED-USE RELEASE",
+  "assumptions": [
+    "Circular concentric cross-sections; common straight forearm centreline.",
+    "6mm uncompressed pad; zero-thickness webbing; slot centreline endpoints.",
+    "Straight tangent tab; ignores slot-edge bending, seams, compression and human anatomy.",
+    "Linear taper between measured forearm stations; local edge taper is illustrative.",
+    "All dimensions are proposal inputs, not measured assembled hardware."
+  ],
+  "strap_routes": [
+    {
+      "id": "U31",
+      "circular_pad_outer_radius_mm": 55.33803235848755,
+      "slot_centre_xy_mm": [
+        -19.83974596215562,
+        54.363448015713
+      ],
+      "ideal_main_route_mm": 213.57933442797565,
+      "sampled_route_mm": 213.57931468408927,
+      "original_150mm_loop_minus_route_mm": -63.57933442797565,
+      "frame_inner_radius_with_original_3mm_block_mm": 61
+    },
+    {
+      "id": "F23",
+      "circular_pad_outer_radius_mm": 42.60563691113593,
+      "slot_centre_xy_mm": [
+        -13.339745962155618,
+        43.1051177665153
+      ],
+      "ideal_main_route_mm": 160.54705864025445,
+      "sampled_route_mm": 160.54704578953312,
+      "original_150mm_loop_minus_route_mm": -10.547058640254448,
+      "frame_inner_radius_with_original_3mm_block_mm": 48
+    },
+    {
+      "id": "F16",
+      "circular_pad_outer_radius_mm": 31.464790894703256,
+      "slot_centre_xy_mm": [
+        -7.839745962155618,
+        33.578838324886476
+      ],
+      "ideal_main_route_mm": 114.97364794480895,
+      "sampled_route_mm": 114.97364107292952,
+      "original_150mm_loop_minus_route_mm": 35.026352055191055,
+      "frame_inner_radius_with_original_3mm_block_mm": 37
+    }
+  ],
+  "forearm": {
+    "station_span_mm": 110,
+    "original_mount_face_offset_difference_mm": 11,
+    "frame_tilt_if_joining_face_centres_deg": 5.710593137499643,
+    "wrist_block_example_for_parallel_frame_mm": 14,
+    "example_is_not_a_released_dimension": true,
+    "linear_radius_change_over_45mm_cuff_mm": 4.557618824904276
+  },
+  "checks": {
+    "tangency_and_sampled_route_agree": true
+  }
+}

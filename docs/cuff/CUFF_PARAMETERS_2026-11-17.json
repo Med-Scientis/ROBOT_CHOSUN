@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "status": "PROPOSAL - QUOTE/GEOMETRY REVIEW ONLY, NOT RELEASED FOR POWERED USE",
+  "status": "HOLD - SELF REVIEW FOUND ASSEMBLY GAPS; NOT FOR FABRICATION OR POWERED USE",
   "units": "mm",
   "shell_material_proposal": "5052-H32 aluminium",
   "shell_thickness": 2,
@@ -18,7 +18,6 @@
   "mount_holes_pitch_along_arm": 14,
   "fixed_sew_return_allowance": 35,
   "hook_engagement_trial": 80,
-  "loop_patch_trial": 150,
   "pull_tab": 20,
   "parts": [
     {
@@ -36,7 +35,10 @@
       "pad_neutral_length_mm": 328.84955592153875,
       "strap_route_allowance_mm": 271.799407895385,
       "strap_allowance_total_mm": 406.799407895385,
-      "saddle_edge_thickness_mm": 4.973220688674239
+      "original_saddle_edge_thickness_mm": 4.973220688674239,
+      "final_saddle_centre_thickness_mm": null,
+      "final_loop_patch_length_mm": null,
+      "strap_length_status": "Oversized material allowance only; not a finished sewn length"
     },
     {
       "id": "F23",
@@ -53,7 +55,10 @@
       "pad_neutral_length_mm": 248.84955592153875,
       "strap_route_allowance_mm": 218.46607456205166,
       "strap_allowance_total_mm": 353.46607456205163,
-      "saddle_edge_thickness_mm": 4.770958835523544
+      "original_saddle_edge_thickness_mm": 4.770958835523544,
+      "final_saddle_centre_thickness_mm": null,
+      "final_loop_patch_length_mm": null,
+      "strap_length_status": "Oversized material allowance only; not a finished sewn length"
     },
     {
       "id": "F16",
@@ -70,7 +75,23 @@
       "pad_neutral_length_mm": 178.84955592153875,
       "strap_route_allowance_mm": 171.799407895385,
       "strap_allowance_total_mm": 306.799407895385,
-      "saddle_edge_thickness_mm": 5.3811764924752445
+      "original_saddle_edge_thickness_mm": 5.3811764924752445,
+      "final_saddle_centre_thickness_mm": null,
+      "final_loop_patch_length_mm": null,
+      "strap_length_status": "Oversized material allowance only; not a finished sewn length"
     }
-  ]
+  ],
+  "review_date": "2026-11-18",
+  "review_document": "../CUFF_SELF_REVIEW.md",
+  "original_loop_patch_trial_withdrawn": 150,
+  "loop_patch_final": null,
+  "saddle_centre_thickness_final": null,
+  "skin_side_pad_remaining_minimum": null,
+  "withdrawn_defaults": {
+    "common_saddle_centre_thickness_mm": 3,
+    "common_loop_patch_finished_length_mm": 150,
+    "skin_side_pad_remaining_minimum_mm": 2
+  },
+  "fabrication_release": false,
+  "geometry_status": "Original cylindrical proposal retained for traceability; taper, mounting offsets and strap layout require revision."
 }

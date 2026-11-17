@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 840 1188">
 <rect width="840" height="1188" fill="white"/>
-<text x="40" y="24" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="27" font-weight="700" fill="#18364A">팔 받침 전개 형상 · 견적 검토용</text>
-<text x="40" y="67" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="16" font-weight="400" fill="#687C89">단위 mm / A4 100% / 곡률·스프링백 보정 후 가공 치수 확정</text>
+<text x="40" y="24" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="27" font-weight="700" fill="#18364A">팔 받침 전개 형상 · 가공 보류</text>
+<text x="40" y="67" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="16" font-weight="400" fill="#687C89">기존 형상 보존 / 테이퍼·연결 높이 수정 필요 / CUFF_SELF_REVIEW.md</text>
 <text x="40" y="95" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="16" font-weight="400" fill="#687C89">소재 제안 5052-H32, 두께 2 / 모서리 R3 / 슬롯 모서리 마감</text>
 <text x="40" y="130" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="19" font-weight="700" fill="#18364A">U31  위팔 두 곳 × 2  |  160 × 45  |  내측 R56</text>
 <rect x="40" y="172" width="640" height="180" rx="12" fill="#F5F9FC" stroke="#356F9B" stroke-width="2"/>
@@ -38,4 +38,5 @@
 <polyline points="240.000,1075.000 240.000,1093.000" stroke="#18364A" stroke-width="2" fill="none"/>
 <text x="40" y="1102" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="17" font-weight="400" fill="#687C89">출력 후 이 선이 50mm인지 확인</text>
 <text x="40" y="1144" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="17" font-weight="400" fill="#687C89">이 형상만으로 조립체 강도·착용 적합을 확인한 것은 아닙니다.</text>
+<desc>HOLD after self review. Original proposal geometry; not for fabrication. See CUFF_SELF_REVIEW.md.</desc>
 </svg>
