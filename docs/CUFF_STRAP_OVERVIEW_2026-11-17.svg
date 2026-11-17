@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1220" viewBox="0 0 1600 1220">
+<rect width="1600" height="1220" fill="white"/>
+<text x="44" y="30" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="40" font-weight="700" fill="#18364A">팔 받침 · 패드 · 찍찍이 연결안</text>
+<text x="46" y="88" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="23" font-weight="400" fill="#687C89">2026.11.17  |  받은 팔 둘레와 기존 위치 유지  |  새 치수는 제작 검토 제안</text>
+<rect x="40" y="140" width="715" height="560" rx="12" fill="#F4F8FA" stroke="#F4F8FA" stroke-width="2"/>
+<rect x="780" y="140" width="780" height="560" rx="12" fill="#F4F8FA" stroke="#F4F8FA" stroke-width="2"/>
+<text x="64" y="160" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="27" font-weight="700" fill="#18364A">① 팔을 내려다본 단면</text>
+<text x="64" y="202" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="400" fill="#687C89">열린 받침 + 부드러운 패드 + 되접는 끈</text>
+<circle cx="327" cy="439" r="130" fill="#B9D8CB" stroke="#3E826B" stroke-width="2"/>
+<circle cx="327" cy="439" r="113" fill="#F1DFCD" stroke="#C6AD92" stroke-width="2"/>
+<text x="307" y="421" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="30" font-weight="700" fill="#18364A">팔</text>
+<polygon points="256.000,316.024 251.751,318.577 247.595,321.277 243.534,324.120 239.576,327.102 235.724,330.222 231.983,333.473 228.359,336.854 224.854,340.359 221.473,343.983 218.222,347.724 215.102,351.576 212.120,355.534 209.277,359.595 206.577,363.751 204.024,368.000 201.621,372.335 199.371,376.751 197.277,381.243 195.340,385.806 193.564,390.433 191.950,395.120 190.501,399.859 189.218,404.647 188.103,409.477 187.157,414.342 186.382,419.237 185.778,424.157 185.346,429.095 185.087,434.044 185.000,439.000 185.087,443.956 185.346,448.905 185.778,453.843 186.382,458.763 187.157,463.658 188.103,468.523 189.218,473.353 190.501,478.141 191.950,482.880 193.564,487.567 195.340,492.194 197.277,496.757 199.371,501.249 201.621,505.665 204.024,510.000 206.577,514.249 209.277,518.405 212.120,522.466 215.102,526.424 218.222,530.276 221.473,534.017 224.854,537.641 228.359,541.146 231.983,544.527 235.724,547.778 239.576,550.898 243.534,553.880 247.595,556.723 251.751,559.423 256.000,561.976 259.000,556.779 254.931,554.335 250.950,551.749 247.061,549.026 243.270,546.169 239.581,543.182 235.998,540.068 232.526,536.830 229.170,533.474 225.932,530.002 222.818,526.419 219.831,522.730 216.974,518.939 214.251,515.050 211.665,511.069 209.221,507.000 206.919,502.848 204.764,498.618 202.758,494.316 200.903,489.946 199.202,485.515 197.656,481.026 196.268,476.487 195.040,471.901 193.972,467.276 193.066,462.616 192.324,457.928 191.745,453.216 191.331,448.487 191.083,443.746 191.000,439.000 191.083,434.254 191.331,429.513 191.745,424.784 192.324,420.072 193.066,415.384 193.972,410.724 195.040,406.099 196.268,401.513 197.656,396.974 199.202,392.485 200.903,388.054 202.758,383.684 204.764,379.382 206.919,375.152 209.221,371.000 211.665,366.931 214.251,362.950 216.974,359.061 219.831,355.270 222.818,351.581 225.932,347.998 229.170,344.526 232.526,341.170 235.998,337.932 239.581,334.818 243.270,331.831 247.061,328.974 250.950,326.251 254.931,323.665 259.000,321.221" fill="#87A9C0" stroke="#356F9B" stroke-width="2"/>
+<polyline points="300.500,293.622 257.500,318.622" stroke="#356F9B" stroke-width="7" fill="none"/>
+<polyline points="257.500,559.378 300.500,584.378" stroke="#356F9B" stroke-width="7" fill="none"/>
+<polyline points="279.000,306.122 285.103,292.888 292.807,290.896 300.605,289.309 308.476,288.133 316.397,287.370 324.347,287.023 332.305,287.093 340.248,287.578 348.154,288.479 356.003,289.793 363.772,291.515 371.440,293.642 378.987,296.167 386.391,299.083 393.632,302.383 400.691,306.058 407.548,310.097 414.184,314.489 420.581,319.222 426.721,324.284 432.588,329.660 438.166,335.336 443.439,341.296 448.393,347.524 453.014,354.003 457.289,360.714 461.208,367.640 464.759,374.762 467.932,382.060 470.719,389.514 473.112,397.103 475.104,404.807 476.691,412.605 477.867,420.476 478.630,428.397 478.977,436.347 478.907,444.305 478.422,452.248 477.521,460.154 476.207,468.003 474.485,475.772 472.358,483.440 469.833,490.987 466.917,498.391 463.617,505.632 459.942,512.691 455.903,519.548 451.511,526.184 446.778,532.581 441.716,538.721 436.340,544.588 430.664,550.166 424.704,555.439 418.476,560.393 411.997,565.014 405.286,569.289 398.360,573.208 391.238,576.759 383.940,579.932 376.486,582.719 368.897,585.112 361.193,587.104 353.395,588.691 345.524,589.867 337.603,590.630 329.653,590.977 321.695,590.907 313.752,590.422 305.846,589.521 297.997,588.207 290.228,586.485 279.000,571.878" stroke="#BB762A" stroke-width="9" fill="none"/>
+<polyline points="279.000,571.878 362.000,609.000 452.000,559.000" stroke="#7C531F" stroke-width="7" fill="none"/>
+<circle cx="279.0" cy="306.12246887396304" r="8" fill="#FFFFFF" stroke="#356F9B" stroke-width="2"/>
+<circle cx="279.0" cy="571.877531126037" r="8" fill="#FFFFFF" stroke="#356F9B" stroke-width="2"/>
+<rect x="149" y="391" width="16" height="96" rx="0" fill="#84A3BA" stroke="#356F9B" stroke-width="2"/>
+<polygon points="165.000,414.000 185.000,412.000 185.000,466.000 165.000,464.000" fill="#C6D3DC" stroke="#687C89" stroke-width="2"/>
+<polyline points="140.000,439.000 192.000,439.000" stroke="#18364A" stroke-width="6" fill="none"/>
+<text x="66" y="295" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="700" fill="#BB762A">고정 봉제</text>
+<polyline points="180.000,307.000 279.000,306.122" stroke="#BB762A" stroke-width="2" fill="none"/>
+<text x="65" y="500" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="700" fill="#356F9B">프레임</text>
+<polyline points="145.000,500.000 157.000,485.000" stroke="#356F9B" stroke-width="2" fill="none"/>
+<text x="494" y="357" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="700" fill="#BB762A">찍찍이 30 폭</text>
+<polyline points="480.000,374.000 477.000,401.000" stroke="#BB762A" stroke-width="2" fill="none"/>
+<text x="480" y="476" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="700" fill="#3E826B">패드 6 두께</text>
+<polyline points="477.000,486.000 447.000,477.000" stroke="#3E826B" stroke-width="2" fill="none"/>
+<text x="333" y="632" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="700" fill="#BB762A">구멍 통과 → 되접어 붙임</text>
+<polyline points="337.000,620.000 279.000,571.878" stroke="#BB762A" stroke-width="2" fill="none"/>
+<text x="66" y="658" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="19" font-weight="400" fill="#687C89">받침: 2mm 알루미늄 곡면 제안 / 강도 검토 전</text>
+<text x="805" y="160" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="27" font-weight="700" fill="#18364A">② 받침을 프레임에 고정</text>
+<text x="805" y="202" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="400" fill="#687C89">받침 하나당 M4 볼트 2개 · 팔 길이 방향 간격 14</text>
+<rect x="845" y="290" width="82" height="230" rx="0" fill="#B9D8CB" stroke="#3E826B" stroke-width="2"/>
+<rect x="927" y="290" width="18" height="230" rx="0" fill="#87A9C0" stroke="#356F9B" stroke-width="2"/>
+<rect x="945" y="290" width="55" height="230" rx="0" fill="#CDD6DD" stroke="#687C89" stroke-width="2"/>
+<rect x="1000" y="290" width="35" height="230" rx="0" fill="#6F98B4" stroke="#356F9B" stroke-width="2"/>
+<rect x="900" y="336" width="22" height="26" rx="5" fill="#5D6872" stroke="#18364A" stroke-width="2"/>
+<polyline points="918.000,349.000 1103.000,349.000" stroke="#18364A" stroke-width="7" fill="none"/>
+<rect x="1042" y="323" width="12" height="52" rx="0" fill="#A6B4BE" stroke="#18364A" stroke-width="2"/>
+<polygon points="1060.000,330.000 1072.000,320.000 1090.000,330.000 1090.000,368.000 1072.000,378.000 1060.000,368.000" fill="#657B89" stroke="#18364A" stroke-width="2"/>
+<rect x="900" y="442" width="22" height="26" rx="5" fill="#5D6872" stroke="#18364A" stroke-width="2"/>
+<polyline points="918.000,455.000 1103.000,455.000" stroke="#18364A" stroke-width="7" fill="none"/>
+<rect x="1042" y="429" width="12" height="52" rx="0" fill="#A6B4BE" stroke="#18364A" stroke-width="2"/>
+<polygon points="1060.000,436.000 1072.000,426.000 1090.000,436.000 1090.000,474.000 1072.000,484.000 1060.000,474.000" fill="#657B89" stroke="#18364A" stroke-width="2"/>
+<text x="1117" y="332" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="700" fill="#18364A">와셔 + 풀림방지 너트</text>
+<text x="1117" y="371" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#687C89">곡면과 평면 사이에</text>
+<text x="1117" y="401" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#687C89">맞춤 받침을 넣어 고정</text>
+<text x="812" y="548" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="700" fill="#18364A">팔 → 패드 → 곡면 받침 → 맞춤 블록 → 프레임</text>
+<text x="812" y="589" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#687C89">안쪽 볼트 머리는 패드 뒷면 홈에 수용</text>
+<text x="812" y="622" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#687C89">피부 쪽에는 연속 패드 유지 · 눌림 실물 확인</text>
+<text x="812" y="657" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="19" font-weight="400" fill="#687C89">볼트 길이·조임값·블록 재질은 최종 조립에 맞춰 결정</text>
+<text x="44" y="731" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="28" font-weight="700" fill="#18364A">③ 위치별 준비 치수</text>
+<text x="1018" y="739" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="400" fill="#687C89">단위 mm / 끈은 초벌 길이</text>
+<rect x="40" y="781" width="1520" height="49" rx="0" fill="#DFEBF2" stroke="#DFEBF2" stroke-width="2"/>
+<text x="57" y="794" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="700" fill="#18364A">부위</text>
+<text x="390" y="794" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="700" fill="#18364A">수량</text>
+<text x="535" y="794" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="700" fill="#18364A">팔 둘레</text>
+<text x="720" y="794" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="700" fill="#18364A">받침 안쪽 반지름</text>
+<text x="1040" y="794" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="700" fill="#18364A">패드 준비 길이</text>
+<text x="1295" y="794" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="700" fill="#18364A">찍찍이 초벌</text>
+<text x="57" y="843" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">위팔 두 곳</text>
+<text x="390" y="843" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">2</text>
+<text x="535" y="843" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">약 310</text>
+<text x="720" y="843" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">56</text>
+<text x="1040" y="843" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">330</text>
+<text x="1295" y="843" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">450</text>
+<polyline points="40.000,885.000 1560.000,885.000" stroke="#E3E9ED" stroke-width="2" fill="none"/>
+<text x="57" y="901" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">아래팔 팔꿈치 쪽</text>
+<text x="390" y="901" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">1</text>
+<text x="535" y="901" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">230</text>
+<text x="720" y="901" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">43</text>
+<text x="1040" y="901" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">250</text>
+<text x="1295" y="901" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">400</text>
+<polyline points="40.000,943.000 1560.000,943.000" stroke="#E3E9ED" stroke-width="2" fill="none"/>
+<text x="57" y="959" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">아래팔 손목 쪽</text>
+<text x="390" y="959" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">1</text>
+<text x="535" y="959" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">160</text>
+<text x="720" y="959" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">32</text>
+<text x="1040" y="959" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">180</text>
+<text x="1295" y="959" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">350</text>
+<polyline points="40.000,1001.000 1560.000,1001.000" stroke="#E3E9ED" stroke-width="2" fill="none"/>
+<text x="48" y="1034" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="23" font-weight="700" fill="#356F9B">공통: 받침 폭 45 / 패드 폭 55 × 두께 6 / 찍찍이 폭 30</text>
+<text x="48" y="1076" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="22" font-weight="400" fill="#18364A">끈은 45cm × 2개, 40cm × 1개, 35cm × 1개로 길게 준비하고 봉제 전에 맞춰 줄임.</text>
+<text x="48" y="1115" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="21" font-weight="400" fill="#687C89">겹쳐 붙이는 길이 80mm는 시험 시작값. 실제 제품·봉제·미끄러짐 시험 후 확정.</text>
+<text x="48" y="1172" dominant-baseline="text-before-edge" font-family="Malgun Gothic,sans-serif" font-size="20" font-weight="400" fill="#687C89">받침의 곡률은 원형 가정값이며 실제 팔 모양에 맞춰 보정. 입체 간섭·하중 검증 전.</text>
+</svg>
