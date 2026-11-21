@@ -1,0 +1,111 @@
+{
+  "print_files": [
+    {
+      "file": "DM4340P_36T_FIT_ONLY.stl",
+      "qty": 1,
+      "name": "모터 앞 톱니바퀴",
+      "size_mm": [
+        56.0,
+        56.0,
+        18.5
+      ]
+    },
+    {
+      "file": "DM4340P_SLIDE_CARRIER_FIT_ONLY.stl",
+      "qty": 1,
+      "name": "움직이는 모터판",
+      "size_mm": [
+        70.0,
+        61.0,
+        12.5
+      ]
+    },
+    {
+      "file": "UPPER_FRAME_WITH_BASE_FIT_ONLY.stl",
+      "qty": 1,
+      "name": "위팔 프레임 · 고정 받침판 일체형",
+      "size_mm": [
+        177.48,
+        207.18,
+        16.5
+      ],
+      "triangles": 6412
+    },
+    {
+      "file": "FOREARM_FRAME_FIT_ONLY.stl",
+      "qty": 1,
+      "name": "아래팔 프레임",
+      "size_mm": [
+        182.33,
+        182.33,
+        34.0
+      ],
+      "triangles": 5704
+    },
+    {
+      "file": "ELBOW_PIVOT_SUPPORT_FIT_ONLY.stl",
+      "qty": 1,
+      "name": "손 조립용 팔꿈치 축 받침대",
+      "size_mm": [
+        40.0,
+        63.0,
+        50.5
+      ],
+      "triangles": 3296
+    },
+    {
+      "file": "FOREARM_HUB_WITH_PIN_FIT_ONLY.stl",
+      "qty": 1,
+      "name": "손 조립용 아래팔 연결통 · 축 일체형",
+      "size_mm": [
+        50.0,
+        50.0,
+        30.8
+      ],
+      "triangles": 5056
+    },
+    {
+      "file": "UPPER_CUFF_U31_FIT_ONLY.stl",
+      "qty": 2,
+      "name": "위팔 받침 · 둘레 약 31cm",
+      "size_mm": [
+        120.46,
+        50.82,
+        45.0
+      ],
+      "triangles": 2748
+    },
+    {
+      "file": "FOREARM_CUFF_F23_FIT_ONLY.stl",
+      "qty": 1,
+      "name": "팔꿈치 쪽 아래팔 받침 · 둘레 약 23cm",
+      "size_mm": [
+        72.04,
+        57.96,
+        45.0
+      ],
+      "triangles": 3242
+    },
+    {
+      "file": "FOREARM_CUFF_F16_FIT_ONLY.stl",
+      "qty": 1,
+      "name": "손목 쪽 아래팔 받침 · 둘레 약 16cm",
+      "size_mm": [
+        82.79,
+        54.45,
+        45.0
+      ],
+      "triangles": 3358
+    }
+  ],
+  "unique_parts": 9,
+  "total_quantity": 10,
+  "hand_fit_sweep_deg": [
+    0,
+    120,
+    1
+  ],
+  "smooth_pin_mm": 11.8,
+  "journal_mm": 12.6,
+  "washer_clearance_mm": 0.8
+}

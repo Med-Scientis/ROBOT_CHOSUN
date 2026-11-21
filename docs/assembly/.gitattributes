@@ -1,0 +1,7 @@
+*.stl binary
+*.step binary
+*.png binary
+*.gif binary
+*.pdf binary
+*.zip binary
+forearm_fit/print/*.txt -text whitespace=trailing-space,cr-at-eol

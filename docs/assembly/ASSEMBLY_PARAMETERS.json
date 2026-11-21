@@ -1,0 +1,584 @@
+{
+  "status": "PACKAGING PROPOSAL; FABRICATION HOLD",
+  "units": "mm",
+  "origin": "Ideal elbow axis / arm centreline intersection",
+  "axes": {
+    "X": "flexion-forward",
+    "Y": "upper arm toward shoulder",
+    "Z": "outboard"
+  },
+  "motor": {
+    "model": "Damiao DM-J4340P-2EC 24V",
+    "centre_Y": 147.5,
+    "rear_Z": 65.5,
+    "flange_Z": 122.0,
+    "belt_plane_Z": 132.0,
+    "rear_PCD": 38.0,
+    "rear_thread": "V1.0 M2.5 x4; alternate drawing M3 x4. Verify supplied revision.",
+    "rear_plate_clearance_diameter_mm": 3.4,
+    "output_PCD": 27.0,
+    "output_pattern": "6 x M3 depth 6",
+    "tooth_count": 36,
+    "pitch_mm": 5.0,
+    "toothed_face_width": 17.0,
+    "centring": "Register/dowels and printed hole tolerances not qualified."
+  },
+  "joint": {
+    "bearing_A": [
+      108,
+      116
+    ],
+    "bearing_B": [
+      148,
+      156
+    ],
+    "bearing_centre_span": 40,
+    "pulley_reservation": [
+      118,
+      146
+    ],
+    "belt_plane_Z": 132,
+    "hub": [
+      86,
+      106
+    ],
+    "shaft": [
+      80,
+      162
+    ]
+  },
+  "cuffs": {
+    "upper_frame_inner_Z": 61.5,
+    "upper_block_centre": 3.5,
+    "forearm_frame_inner_Z": 52,
+    "F23_block_centre": 7,
+    "F16_block_centre": 18,
+    "forearm_shell_radius_formula": "R(s)=50-0.1*s, s distal from elbow",
+    "forearm_frame_offset": 30,
+    "F23_arc_degrees": [
+      -60,
+      25
+    ],
+    "F23_front_tab_direction": "outboard +Z",
+    "other_cuff_arc_degrees": [
+      -60,
+      60
+    ],
+    "F23_contact_arc_reduction_percent": 29.166666666666668
+  },
+  "maximum_outboard_Z_with_sensor_reservation": 175,
+  "approx_projection_from_upper_arm_skin": 125.66196764151245,
+  "belt_pitch_length": 475,
+  "parts": [
+    {
+      "id": "U31_elbow",
+      "group": "fixed",
+      "kind": "cuff",
+      "role": "Tapered proposal with unfinished slot envelope",
+      "bbox": [
+        -60.22947351949744,
+        57.4999999,
+        10.679491824311237,
+        60.22947351949744,
+        102.5000001,
+        58.00000011635019
+      ],
+      "volume": 13224.615205192824
+    },
+    {
+      "id": "U31_elbow_saddle",
+      "group": "fixed",
+      "kind": "saddle",
+      "role": "Position-specific curved block; material/fastening pending",
+      "bbox": [
+        -15.00000010000001,
+        65.9999999,
+        56.02677921132575,
+        15.0000001,
+        94.0000001,
+        61.5000001
+      ],
+      "volume": 3377.0101599925774
+    },
+    {
+      "id": "U31_elbow_pad",
+      "group": "fixed",
+      "kind": "pad",
+      "role": "Nominal full-wrap 6mm pad; compression not simulated",
+      "bbox": [
+        -56.0,
+        52.5,
+        -56.0,
+        56.0,
+        107.5,
+        56.0
+      ],
+      "volume": 109892.91102257092
+    },
+    {
+      "id": "U31_shoulder",
+      "group": "fixed",
+      "kind": "cuff",
+      "role": "Tapered proposal with unfinished slot envelope",
+      "bbox": [
+        -60.22947351949744,
+        182.4999999,
+        10.679491824311237,
+        60.22947351949744,
+        227.5000001,
+        58.00000011635022
+      ],
+      "volume": 13224.615204066506
+    },
+    {
+      "id": "U31_shoulder_saddle",
+      "group": "fixed",
+      "kind": "saddle",
+      "role": "Position-specific curved block; material/fastening pending",
+      "bbox": [
+        -15.00000010000001,
+        190.9999999,
+        56.02677921132575,
+        15.0000001,
+        219.0000001,
+        61.5000001
+      ],
+      "volume": 3377.009680759319
+    },
+    {
+      "id": "U31_shoulder_pad",
+      "group": "fixed",
+      "kind": "pad",
+      "role": "Nominal full-wrap 6mm pad; compression not simulated",
+      "bbox": [
+        -56.0,
+        177.5,
+        -56.0,
+        56.0,
+        232.5,
+        56.0
+      ],
+      "volume": 109892.91102257092
+    },
+    {
+      "id": "F23",
+      "group": "moving",
+      "kind": "cuff",
+      "role": "Tapered proposal with unfinished slot envelope",
+      "bbox": [
+        -50.91970042881472,
+        -92.5000001,
+        3.0544918243112327,
+        21.123476443766652,
+        -47.49999989999999,
+        61.01042746340841
+      ],
+      "volume": 8313.305978422466
+    },
+    {
+      "id": "F23_saddle",
+      "group": "moving",
+      "kind": "saddle",
+      "role": "Position-specific curved block; material/fastening pending",
+      "bbox": [
+        -12.50000010000001,
+        -84.00000010000005,
+        41.76972577891857,
+        12.500000100000001,
+        -55.9999999,
+        52.0000001
+      ],
+      "volume": 5086.948001998561
+    },
+    {
+      "id": "F23_pad",
+      "group": "moving",
+      "kind": "pad",
+      "role": "Nominal full-wrap 6mm pad; compression not simulated",
+      "bbox": [
+        -45.75,
+        -97.5,
+        -45.75,
+        45.75,
+        -42.5,
+        45.75
+      ],
+      "volume": 82938.04605477056
+    },
+    {
+      "id": "F16",
+      "group": "moving",
+      "kind": "cuff",
+      "role": "Tapered proposal with unfinished slot envelope",
+      "bbox": [
+        -41.393420987185905,
+        -202.5000001,
+        -2.4455081756887673,
+        41.393420987185905,
+        -157.4999999,
+        36.2500001
+      ],
+      "volume": 8700.699451235376
+    },
+    {
+      "id": "F16_saddle",
+      "group": "moving",
+      "kind": "saddle",
+      "role": "Position-specific curved block; material/fastening pending",
+      "bbox": [
+        -12.500000100000019,
+        -194.00000010000005,
+        30.108304402246546,
+        12.5000001,
+        -165.9999999,
+        52.0000001
+      ],
+      "volume": 12574.781683630576
+    },
+    {
+      "id": "F16_pad",
+      "group": "moving",
+      "kind": "pad",
+      "role": "Nominal full-wrap 6mm pad; compression not simulated",
+      "bbox": [
+        -34.75,
+        -207.5,
+        -34.75,
+        34.75,
+        -152.5,
+        34.75
+      ],
+      "volume": 60130.08338970864
+    },
+    {
+      "id": "upper_frame_mount_envelope",
+      "group": "fixed",
+      "kind": "frame",
+      "role": "Shared 3.4 mm plate clearance for M2.5/M3 at PCD 38. Check seating, location and alignment with actual hardware; tensioning not final.",
+      "bbox": [
+        -35.0,
+        -32.0,
+        61.5,
+        35.0,
+        220.0,
+        65.5
+      ],
+      "volume": 37760.2637507572
+    },
+    {
+      "id": "motor_envelope",
+      "group": "fixed",
+      "kind": "motor",
+      "role": "DM4340P housing clearance cylinder; simplified connectors and rotor",
+      "bbox": [
+        -28.5,
+        119.0,
+        65.5,
+        28.5,
+        176.0,
+        122.0
+      ],
+      "volume": 144174.36275762448
+    },
+    {
+      "id": "motor_pulley",
+      "group": "drive",
+      "kind": "pulley",
+      "role": "36 tooth HTD5M nominal, flange mounting and counterbores. Unpowered fit reference.",
+      "bbox": [
+        -27.999350933237864,
+        119.50064906676214,
+        122.0,
+        27.999350933237864,
+        175.49935093323788,
+        140.5
+      ],
+      "volume": 35542.44492410039
+    },
+    {
+      "id": "bearing_A",
+      "group": "fixed",
+      "kind": "bearing",
+      "role": "6001 nominal 12x28x8 ring envelope",
+      "bbox": [
+        -14.0,
+        -14.0,
+        108.0,
+        14.0,
+        14.0,
+        116.0
+      ],
+      "volume": 4021.238596594936
+    },
+    {
+      "id": "bearing_B",
+      "group": "fixed",
+      "kind": "bearing",
+      "role": "6001 nominal 12x28x8 ring envelope",
+      "bbox": [
+        -14.0,
+        -14.0,
+        148.0,
+        14.0,
+        14.0,
+        156.0
+      ],
+      "volume": 4021.238596594936
+    },
+    {
+      "id": "housing_A",
+      "group": "fixed",
+      "kind": "support",
+      "role": "Bearing housing envelope; shoulders/covers/fit not designed",
+      "bbox": [
+        -42.0,
+        -32.0,
+        104.0,
+        26.0,
+        32.0,
+        116.0
+      ],
+      "volume": 39458.97407875681
+    },
+    {
+      "id": "housing_B",
+      "group": "fixed",
+      "kind": "support",
+      "role": "Bearing housing envelope; shoulders/covers/fit not designed",
+      "bbox": [
+        -42.0,
+        -32.0,
+        148.0,
+        26.0,
+        32.0,
+        160.0
+      ],
+      "volume": 39458.97407875681
+    },
+    {
+      "id": "inboard_rear_supports",
+      "group": "fixed",
+      "kind": "support",
+      "role": "Rear-side support pair; attachment and stiffness pending",
+      "bbox": [
+        -26.0,
+        -32.0,
+        65.5,
+        -20.0,
+        32.0,
+        104.0
+      ],
+      "volume": 3696.000000000001
+    },
+    {
+      "id": "bearing_bridge",
+      "group": "fixed",
+      "kind": "support",
+      "role": "Bridge behind belt path; assembled fastening pending",
+      "bbox": [
+        -42.0,
+        -18.0,
+        116.0,
+        -36.0,
+        18.0,
+        148.0
+      ],
+      "volume": 6912.0
+    },
+    {
+      "id": "joint_pulley_envelope",
+      "group": "moving",
+      "kind": "pulley",
+      "role": "28mm reservation, pitch centre Z132; teeth/key not represented",
+      "bbox": [
+        -31.0,
+        -31.0,
+        118.0,
+        31.0,
+        31.0,
+        146.0
+      ],
+      "volume": 81367.24972797565
+    },
+    {
+      "id": "shaft_envelope",
+      "group": "moving",
+      "kind": "shaft",
+      "role": "12mm shaft envelope; keyways/retention/tolerances pending",
+      "bbox": [
+        -6.0,
+        -6.0,
+        80.0,
+        6.0,
+        6.0,
+        162.0
+      ],
+      "volume": 9273.98151339707
+    },
+    {
+      "id": "hub_spacer",
+      "group": "moving",
+      "kind": "shaft",
+      "role": "Axial reservation; bearing ring contact and retention pending",
+      "bbox": [
+        -9.0,
+        -9.0,
+        106.0,
+        9.0,
+        9.0,
+        108.0
+      ],
+      "volume": 282.7433388230814
+    },
+    {
+      "id": "pulley_spacer_A",
+      "group": "moving",
+      "kind": "shaft",
+      "role": "Axial reservation; bearing ring contact and retention pending",
+      "bbox": [
+        -9.0,
+        -9.0,
+        116.0,
+        9.0,
+        9.0,
+        118.0
+      ],
+      "volume": 282.7433388230814
+    },
+    {
+      "id": "pulley_spacer_B",
+      "group": "moving",
+      "kind": "shaft",
+      "role": "Axial reservation; bearing ring contact and retention pending",
+      "bbox": [
+        -9.0,
+        -9.0,
+        146.0,
+        9.0,
+        9.0,
+        148.0
+      ],
+      "volume": 282.7433388230814
+    },
+    {
+      "id": "retainer_inner",
+      "group": "moving",
+      "kind": "shaft",
+      "role": "Axial reservation; bearing ring contact and retention pending",
+      "bbox": [
+        -9.0,
+        -9.0,
+        82.0,
+        9.0,
+        9.0,
+        86.0
+      ],
+      "volume": 565.4866776461628
+    },
+    {
+      "id": "retainer_outer",
+      "group": "moving",
+      "kind": "shaft",
+      "role": "Axial reservation; bearing ring contact and retention pending",
+      "bbox": [
+        -9.0,
+        -9.0,
+        156.0,
+        9.0,
+        9.0,
+        160.0
+      ],
+      "volume": 565.4866776461628
+    },
+    {
+      "id": "inboard_forearm_hub",
+      "group": "moving",
+      "kind": "frame",
+      "role": "Moved inboard of bearing A; 20mm reservation with 4-hole flange proposal",
+      "bbox": [
+        -25.0,
+        -25.0,
+        86.0,
+        25.0,
+        25.0,
+        106.0
+      ],
+      "volume": 12575.795392319944
+    },
+    {
+      "id": "stepped_forearm_frame",
+      "group": "moving",
+      "kind": "frame",
+      "role": "30mm offset; square envelope requires manufacturable corner/joint design",
+      "bbox": [
+        -25.0,
+        -210.0,
+        52.0,
+        25.0,
+        25.0,
+        86.0
+      ],
+      "volume": 29196.877868930744
+    },
+    {
+      "id": "belt_path_reservation",
+      "group": "drive",
+      "kind": "belt",
+      "role": "15mm width, conservative path band; not tooth engagement model",
+      "bbox": [
+        -31.15,
+        -31.15,
+        124.5,
+        31.15,
+        178.65,
+        139.5
+      ],
+      "volume": 25185.59652163176
+    },
+    {
+      "id": "sensor_space",
+      "group": "fixed",
+      "kind": "reservation",
+      "role": "Magnet/sensor/bracket space only; actual mounting and airgap not set",
+      "bbox": [
+        -15.0,
+        -15.0,
+        164.0,
+        15.0,
+        15.0,
+        175.0
+      ],
+      "volume": 9900.0
+    },
+    {
+      "id": "upper_arm_guide",
+      "group": "fixed",
+      "kind": "anatomy",
+      "role": "Circular uncompressed guide; real arm cross-section unknown",
+      "bbox": [
+        -49.33803235848755,
+        57.5,
+        -49.33803235848755,
+        49.33803235848755,
+        232.5,
+        49.33803235848755
+      ],
+      "volume": 1338294.1277239746
+    },
+    {
+      "id": "forearm_guide",
+      "group": "moving",
+      "kind": "anatomy",
+      "role": "Linear taper guide limited to cuff region; no elbow model",
+      "bbox": [
+        -38.88444632358808,
+        -202.5,
+        -38.88444632358808,
+        38.88444632358808,
+        -47.5,
+        38.88444632358808
+      ],
+      "volume": 479020.008458978
+    }
+  ]
+}

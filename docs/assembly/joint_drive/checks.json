@@ -1,0 +1,41 @@
+{
+  "status": "Nominal CAD, unpowered fit only",
+  "nominal_centres_mm": 147.5,
+  "bench_slide_limits_mm": [
+    144.5,
+    150.5
+  ],
+  "travel_samples_mm": [
+    -3,
+    -2,
+    -1,
+    0,
+    1,
+    2,
+    3
+  ],
+  "motor_and_elbow_belt_plane_z_mm": 132.0,
+  "nominal_belt_pitch_length_mm": 475,
+  "bearing_to_pulley_hub_mm_each": 2,
+  "bridge_to_flange_mm": 5,
+  "motor_envelope_to_clamp_head_mm": 2.805,
+  "print_files": {
+    "DM4340P_SLIDE_BASE": {
+      "size_mm": [
+        74.0,
+        120.5,
+        16.5
+      ],
+      "triangles": 4140
+    },
+    "DM4340P_SLIDE_CARRIER": {
+      "size_mm": [
+        70.0,
+        61.0,
+        12.5
+      ],
+      "triangles": 4540
+    }
+  },
+  "limits": "Nominal envelopes only; cable, machined tolerances, clamp force, strength, pretension and belt insertion path unverified."
+}

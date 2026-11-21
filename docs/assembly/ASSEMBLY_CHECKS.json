@@ -1,0 +1,46 @@
+{
+  "all_parts_valid": true,
+  "step_reopened_valid": true,
+  "part_count": 34,
+  "motor_tooth_plane_mm": 132.0,
+  "joint_face_midplane_mm": 132.0,
+  "belt_plane_error_mm": 0.0,
+  "motor_centre_distance_mm": 147.5,
+  "physical_validation": false,
+  "static_check": {
+    "angle_deg": 0,
+    "positive_volume_intersections": [],
+    "excluded_envelope_pairs": [
+      [
+        "belt_path_reservation",
+        "motor_pulley"
+      ],
+      [
+        "belt_path_reservation",
+        "joint_pulley_envelope"
+      ]
+    ],
+    "exclusion_reason": "The reserved belt band intentionally intersects both pulley profiles. Actual belt meshing is not simulated."
+  },
+  "motion_sweep": {
+    "angle_start_deg": 0,
+    "angle_end_deg": 120,
+    "step_deg": 1,
+    "volume_threshold_mm3": 0.1,
+    "rigid_collisions": [],
+    "upper_arm_guide_intersections": [],
+    "minimum_rigid_gap": {
+      "distance_mm": 1.9999999999999953,
+      "angle_deg": 7,
+      "moving": "inboard_forearm_hub",
+      "fixed": "housing_A"
+    },
+    "minimum_upper_arm_guide_gap": {
+      "distance_mm": 12.754020478350675,
+      "angle_deg": 120,
+      "moving": "F23",
+      "fixed": "upper_arm_guide"
+    },
+    "scope": "Moving frame/hub/cuffs/saddles against fixed frame/motor/cuffs/saddles/supports; pads/soft straps/fasteners/guards/stops/cables excluded. Sampled poses, not continuous-motion or safety approval."
+  }
+}
