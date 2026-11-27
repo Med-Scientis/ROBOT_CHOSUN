@@ -1,0 +1,34 @@
+{
+  "clearance_mm": {
+    "belt": 4.173,
+    "elbow_pulley": 2.467,
+    "motor_pulley": 3.982,
+    "collar_to_guard": 1.5
+  },
+  "bench_stop_deg": [
+    15,
+    90
+  ],
+  "interior_probes_deg": [
+    15.25,
+    89.75
+  ],
+  "outside_probes_deg": [
+    14.5,
+    90.5
+  ],
+  "forearm_sweep_deg": [
+    15,
+    90,
+    1
+  ],
+  "motor_travel_mm": [
+    -3,
+    0,
+    3
+  ],
+  "swept_lid_lift_mm": 55,
+  "motor_opening_overlap_min_mm": 2.5,
+  "assembly_pose_deg": 45,
+  "assembly_solids": 63
+}

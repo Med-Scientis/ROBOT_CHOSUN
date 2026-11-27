@@ -1,0 +1,40 @@
+{
+  "units": "mm",
+  "housing_seats": {
+    "floating_bore": 28.12,
+    "locating_bore": 28.05,
+    "abutment_ID": 25.5
+  },
+  "floating_nominal_z": [
+    109.5,
+    117.5
+  ],
+  "floating_nominal_shift_from_old": 1.5,
+  "floating_outer_abutment_z": [
+    108.6,
+    118.4
+  ],
+  "nominal_free_each_direction": 0.9,
+  "total_axial_float": 1.8,
+  "locating_outer_abutment_z": [
+    148,
+    156.15
+  ],
+  "locating_end_play": 0.15,
+  "bearing_centres_span": 38.5,
+  "outer_land_contact_at_A_stop_mm2": 105.05,
+  "case_central_keepout_gauge_diameter": 24.8,
+  "radial_eccentricity_gauge_test": 0.2,
+  "register_radial_clearance": 0.12,
+  "minimum_full_diameter_seat_engagement": 7.35,
+  "guard_to_elbow_pulley_nominal": 1.4,
+  "guard_to_elbow_pulley_at_minus_0_7": 0.7,
+  "hub_to_tower_min_for_sampled_angles_with_0_7_axial_shift": 0.8,
+  "updated_parts": [
+    "FLOATING_BEARING_TOWER",
+    "BELT_TRAY_OUTER_RING_STOP",
+    "LOCATING_BEARING_MOUNT",
+    "LOCATING_SENSOR_COVER"
+  ],
+  "assembly_solids": 118
+}

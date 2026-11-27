@@ -1,0 +1,70 @@
+{
+  "stations": {
+    "U31": {
+      "segments": 6,
+      "min_rigid_gap_mm": 6.7,
+      "nominal_free_closure_arc_mm": 127.6,
+      "slot_opening_mm": [
+        33.0,
+        4.8
+      ],
+      "min_screw_roof_mm": 2.65,
+      "rough_tail_each_mm": 245,
+      "angles_deg": [
+        65.86,
+        88.37,
+        110.88
+      ]
+    },
+    "F23": {
+      "segments": 4,
+      "min_rigid_gap_mm": 6.04,
+      "nominal_free_closure_arc_mm": 94.9,
+      "slot_opening_mm": [
+        33.0,
+        4.8
+      ],
+      "min_screw_roof_mm": 5.45,
+      "rough_tail_each_mm": 205,
+      "angles_deg": [
+        82.16,
+        111.48
+      ]
+    },
+    "F16": {
+      "segments": 2,
+      "min_rigid_gap_mm": 25.05,
+      "nominal_free_closure_arc_mm": 75.2,
+      "slot_opening_mm": [
+        33.0,
+        4.8
+      ],
+      "min_screw_roof_mm": 16.45,
+      "rough_tail_each_mm": 175,
+      "angles_deg": [
+        105.83
+      ]
+    }
+  },
+  "guides_total": 18,
+  "centres_total": 4,
+  "rigid_plus_textile_assembly_solids": 118,
+  "motion_deg": [
+    15,
+    90,
+    1
+  ],
+  "nominal_pad_thickness_mm": 6,
+  "pad_width_mm": 50,
+  "web_width_mm": 30,
+  "modelled_single_web_thickness_mm": 1.4,
+  "guide_size_mm": [
+    16,
+    39,
+    7.2
+  ],
+  "guide_passage_mm": [
+    33,
+    3.6
+  ]
+}

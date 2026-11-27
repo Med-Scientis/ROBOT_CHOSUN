@@ -1,0 +1,22 @@
+{
+  "belt_mm": 3.85,
+  "pulley_mm": 3.0,
+  "sampled_motion_min_mm": 2.459,
+  "closest": [
+    12,
+    "아래팔 프레임",
+    "받침 연결대"
+  ],
+  "new_support_min_mm": 2.459,
+  "closest_support": [
+    12,
+    "아래팔 프레임",
+    "받침 연결대"
+  ],
+  "sweep_deg": [
+    0,
+    120,
+    1
+  ],
+  "body_count": 38
+}

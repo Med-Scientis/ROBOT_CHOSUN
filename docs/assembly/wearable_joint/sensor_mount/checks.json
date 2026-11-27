@@ -1,0 +1,39 @@
+{
+  "sensor": "Seeed 101020692",
+  "magnet": "Radial Magnets 9042",
+  "pcb_hole_centres_mm": [
+    [
+      -10.0,
+      20.0
+    ],
+    [
+      10.0,
+      20.0
+    ],
+    [
+      0.0,
+      -10.0
+    ]
+  ],
+  "pcb_xyz_min_max_mm": [
+    -11.91,
+    -11.91,
+    174.05,
+    11.924,
+    30.0,
+    175.65
+  ],
+  "nominal_magnet_to_chip_mm": 2.0,
+  "axial_variation_assumed_mm": 0.7,
+  "magnet_to_chip_range_mm": [
+    1.3,
+    2.7
+  ],
+  "conservative_min_chip_to_rotor_mm": 0.6,
+  "conservative_min_pcb_screw_to_rotor_mm": 0.5,
+  "fixture_translation_radius_tested_mm": 0.5,
+  "translation_directions_tested": 8,
+  "lid_lift_after_unplugging_mm": 55,
+  "assembly_solids": 88,
+  "prior_solids": 63
+}
